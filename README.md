@@ -1,2 +1,2 @@
 # Estudo sobre arvores binarias
-Arvorebinasrias Em JAVA
+Arvores binasrias Em JAVA
