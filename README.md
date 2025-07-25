@@ -1,2 +1,2 @@
 # Estudo sobre arvores binarias
-Arvores binasrias Em JAVA
+Exercicios so bre arvores binarias proposto em sala para avaliação do professor
