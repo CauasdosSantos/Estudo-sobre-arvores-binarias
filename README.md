@@ -1,2 +1,5 @@
 # Estudo sobre arvores binarias
-Exercicios so bre arvores binarias proposto em sala para avaliação do professor
+Exercicios avaliativos sobre arvores binarias proposto em sala
+com a participação de 2 integrantes no grupo
+https://github.com/MiguelPLOliveira
+https://github.com/MiguelPLOliveira
